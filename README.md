@@ -2152,6 +2152,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [vox](https://github.com/aisk/vox) - A golang web framework for humans, inspired by Koa heavily.
 * [WebGo](https://github.com/bnkamalesh/webgo) - A micro-framework to build web apps; with handler chaining, middleware and context injection. With standard library compliant HTTP handlers(i.e. http.HandlerFunc).
 * [YARF](https://github.com/yarf-framework/yarf) - Fast micro-framework designed to build REST APIs and web services in a fast and simple way.
+* [Rango](https://github.com/openware/rango) - Lightweight and High performance websocket server using RabbitMQ as backend.
 
 ### Middlewares
 
